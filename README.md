@@ -1,0 +1,2 @@
+# Transform-Your-Voice-into-Art-A-Seamless-AI-Powered-Voice-to-Image-Generator-2
+This Streamlit app converts voice input into AI-generated images. It records audio, transcribes speech using OpenAI Whisper, refines the text into a detailed image prompt with ChatGPT, and generates an image using DALL·E. The UI ensures a seamless experience with real-time recording, transcription, and image display. 🚀🎙️🎨
